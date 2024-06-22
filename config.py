@@ -19,6 +19,13 @@ search_dict = {
     "天津": "https://chinaiptv.pages.dev/tianjin/tianjin.txt",
     "湖北": "https://chinaiptv.pages.dev/hubei/hubei.txt",
     "江西": "https://chinaiptv.pages.dev/jiangxi/jiangxi.txt",
+    "湖南": "https://chinaiptv.pages.dev/hunan/hunan.txt",
+    "贵州": "https://chinaiptv.pages.dev/guizhou/guizhou.txt",
+    "福建": "https://chinaiptv.pages.dev/fujian/fujian.txt",
+    "广东": "https://chinaiptv.pages.dev/guangdong/guangdong.txt",
+    "河南": "https://chinaiptv.pages.dev/henan/henan.txt",
+    "内蒙古": "https://chinaiptv.pages.dev/neimenggu/neimenggu.txt",
+    "云南": "https://chinaiptv.pages.dev/yunnan/yunnan.txt",
 }
 # 在http://tonkiang.us网站上搜索的源的页数
 search_page_num = 5
