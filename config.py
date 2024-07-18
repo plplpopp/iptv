@@ -1,6 +1,6 @@
 source_file = "demo.txt"
 final_file = "result.txt"
-zb_urls_limit = 10
+zb_urls_limit = 6
 response_time_weight = 0.5
 resolution_weight = 0.5
 # 是否打开测速
@@ -8,7 +8,7 @@ open_sort = True
 # 是否找不到源时保留demo的源
 is_use_demo_if_none = True
 # 1: 显示默认值，线路1 线路2，2：显示视频分辨率，如:1080x720
-xianlu_type = 2
+xianlu_type = 1
 # ffmpeg解析视频时间，单位秒
 ffmpeg_time = 10
 # key: 地区，在http://tonkiang.us网站上搜索的关键词
