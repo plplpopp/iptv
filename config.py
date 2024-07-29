@@ -15,20 +15,8 @@ ffmpeg_time = 10
 # value: 订阅url，在https://github.com/xisohi/IPTV-Multicast-source中找自己想要的
 search_dict = {
     "安徽": "https://chinaiptv.pages.dev/anhui/anhui.txt",
-    "重庆": "https://chinaiptv.pages.dev/chongqing/chongqing.txt",
-    "四川": "https://chinaiptv.pages.dev/sichuan/sichuan.txt",
-    "北京": "https://chinaiptv.pages.dev/beijing/beijing.txt",
-    "江苏": "https://chinaiptv.pages.dev/jiangsu/jiangsu.txt",
-    "天津": "https://chinaiptv.pages.dev/tianjin/tianjin.txt",
-    "湖北": "https://chinaiptv.pages.dev/hubei/hubei.txt",
-    "江西": "https://chinaiptv.pages.dev/jiangxi/jiangxi.txt",
-    "湖南": "https://chinaiptv.pages.dev/hunan/hunan.txt",
-    "贵州": "https://chinaiptv.pages.dev/guizhou/guizhou.txt",
-    "福建": "https://chinaiptv.pages.dev/fujian/fujian.txt",
-    "广东": "https://chinaiptv.pages.dev/guangdong/guangdong.txt",
     "河南": "https://chinaiptv.pages.dev/henan/henan.txt",
-    "内蒙古": "https://chinaiptv.pages.dev/neimenggu/neimenggu.txt",
-    "云南": "https://chinaiptv.pages.dev/yunnan/yunnan.txt",
+    "上海": "https://chinaiptv.pages.desi/shanghai/shanghai.txt",
 }
 # 在http://tonkiang.us网站上搜索的源的页数
 search_page_num = 5
