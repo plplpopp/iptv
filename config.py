@@ -10,7 +10,7 @@ is_use_demo_if_none = True
 # 1: 显示默认值，线路1 线路2，2：显示视频分辨率，如:1080x720
 xianlu_type = 1
 # ffmpeg解析视频时间，单位秒
-ffmpeg_time = 10
+ffmpeg_time = 5
 # key: 地区，在http://tonkiang.us网站上搜索的关键词
 # value: 订阅url，在https://github.com/xisohi/IPTV-Multicast-source中找自己想要的
 search_dict = {
@@ -27,7 +27,7 @@ search_ignore_key = ["高清", "4K"]
 crawl_type = "1"
 # 收集其他大佬url中的直播源
 crawl_urls = [
-    "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/live.txt"
+    "https://raw.githubusercontent.com/plplpopp/TV/main/speedtest/zubo.txt"
 ]
 # ipv6源检测有效性的代理地址，用于不支持ipv6网络的主机，若网络支持ipv6，这里填空""
 ipv6_proxy = "http://www.ipv6proxy.net/go.php?u=" #此代理用于github，国内不一定能用
