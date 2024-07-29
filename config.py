@@ -16,7 +16,6 @@ ffmpeg_time = 10
 search_dict = {
     "安徽": "https://chinaiptv.pages.dev/anhui/anhui.txt",
     "河南": "https://chinaiptv.pages.dev/henan/henan.txt",
-    "上海": "https://chinaiptv.pages.desi/shanghai/shanghai.txt",
 }
 # 在http://tonkiang.us网站上搜索的源的页数
 search_page_num = 5
